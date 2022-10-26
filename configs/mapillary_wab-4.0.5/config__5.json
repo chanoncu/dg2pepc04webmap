@@ -12,6 +12,6 @@
   "layerColorOrganization": null,
   "layerColorPrivate": null,
   "proxyUrl": "",
-  "enableAnonymous": true,
+  "enableAnonymous": false,
   "organizationId": ""
 }
