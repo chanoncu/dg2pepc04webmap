@@ -1,0 +1,189 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "EPC04_SITE_VISIT_LOCATION_shapefile_6061_0": {
+      "display": true
+    },
+    "BV_NAME_shapefile_2024_0": {
+      "display": true
+    },
+    "GJS02_shapefile_9046_0": {
+      "display": true
+    },
+    "GJS01_shapefile_6883_0": {
+      "display": true
+    },
+    "GBV07_shapefile_4175_0": {
+      "display": true
+    },
+    "GBV06_shapefile_8381_0": {
+      "display": true
+    },
+    "GBV05_shapefile_2148_0": {
+      "display": true
+    },
+    "GTL03_MTHD_shapefile_5732_0": {
+      "display": true
+    },
+    "GSL01_MTHD_shapefile_6141_0": {
+      "display": true
+    },
+    "GTL04_shapefile_6152": {
+      "display": true
+    },
+    "GTL04_shapefile_6152_2": {
+      "display": true
+    },
+    "GTL04_shapefile_6152_1": {
+      "display": true
+    },
+    "GTL04_shapefile_6152_0": {
+      "display": true
+    },
+    "GBV04_shapefile_6191_0": {
+      "display": true
+    },
+    "GRS02_shapefile_8603_0": {
+      "display": true
+    },
+    "GBV01_shapefile_6771_0": {
+      "display": true
+    },
+    "GBV03_shapefile_8529_0": {
+      "display": true
+    },
+    "GBV02_shapefile_9329_0": {
+      "display": true
+    },
+    "ABV01_shapefile_5981_0": {
+      "display": true
+    },
+    "GRS01_shapefile_4438_0": {
+      "display": true
+    },
+    "PTS_shapefile_3058": {
+      "display": true
+    },
+    "PTS_shapefile_3058_1": {
+      "display": true
+    },
+    "PTS_shapefile_3058_0": {
+      "display": true
+    },
+    "MOGE_shapefile_9473": {
+      "display": true
+    },
+    "MOGE_shapefile_9473_1": {
+      "display": true
+    },
+    "MOGE_shapefile_9473_0": {
+      "display": true
+    },
+    "GTL03_shapefile_6966": {
+      "display": true
+    },
+    "GTL03_shapefile_6966_2": {
+      "display": true
+    },
+    "GTL03_shapefile_6966_1": {
+      "display": true
+    },
+    "GTL03_shapefile_6966_0": {
+      "display": true
+    },
+    "GTL02_shapefile_1559": {
+      "display": true
+    },
+    "GTL02_shapefile_1559_1": {
+      "display": true
+    },
+    "GTL02_shapefile_1559_0": {
+      "display": true
+    },
+    "GTL01_shapefile_8072": {
+      "display": true
+    },
+    "GTL01_shapefile_8072_3": {
+      "display": true
+    },
+    "GTL01_shapefile_8072_2": {
+      "display": true
+    },
+    "GTL01_shapefile_8072_1": {
+      "display": true
+    },
+    "GTL01_shapefile_8072_0": {
+      "display": true
+    },
+    "GTI_shapefile_8222": {
+      "display": true
+    },
+    "GTI_shapefile_8222_1": {
+      "display": true
+    },
+    "GTI_shapefile_8222_0": {
+      "display": true
+    },
+    "GSL01_shapefile_5492": {
+      "display": true
+    },
+    "GSL01_shapefile_5492_2": {
+      "display": true
+    },
+    "GSL01_shapefile_5492_1": {
+      "display": true
+    },
+    "GSL01_shapefile_5492_0": {
+      "display": true
+    },
+    "EXISTING_PL_shapefile_2950": {
+      "display": true
+    },
+    "EXISTING_PL_shapefile_2950_2": {
+      "display": true
+    },
+    "EXISTING_PL_shapefile_2950_1": {
+      "display": true
+    },
+    "EXISTING_PL_shapefile_2950_0": {
+      "display": true
+    },
+    "ASK_shapefile_596": {
+      "display": true
+    },
+    "ASK_shapefile_596_2": {
+      "display": true
+    },
+    "ASK_shapefile_596_1": {
+      "display": true
+    },
+    "ASK_shapefile_596_0": {
+      "display": true
+    },
+    "APL01_shapefile_3716": {
+      "display": true
+    },
+    "APL01_shapefile_3716_2": {
+      "display": true
+    },
+    "APL01_shapefile_3716_1": {
+      "display": true
+    },
+    "APL01_shapefile_3716_0": {
+      "display": true
+    }
+  }
+}
